@@ -7,6 +7,7 @@ In order to create a string value you enclose it with either ' or ". Strings are
 let string1 = "This is a string";
 let string2 = 'This is also a string';
 let string3 = 'This is a string with an ${expression} in it'
+```
 
 
 Template literals are string literals allowing embedded expressions.
