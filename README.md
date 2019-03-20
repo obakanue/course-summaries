@@ -1,2 +1,2 @@
-# course-summaries
-Summary of courses
+# Course Summaries
+Summary of following courses:
