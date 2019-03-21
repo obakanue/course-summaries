@@ -1,4 +1,7 @@
-### Types and Values
+## 1. The basics
+This is the introductory part of the course. If you feel you understand the basics you can skip this part.
+
+### A. Types and Values
 The different data types existing in JavaScript/TypeScript is the following:
 
 **- String:**
