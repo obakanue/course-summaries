@@ -85,4 +85,4 @@ delete stringObject.newString; // This deletes the property newString from the o
 ### 1.B Operators
 <
 
-[webp-banner]: https://integraconsultores.es/wp-content/uploads/2018/07/kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa148694.1772279515230271940841.jpg "Web programming banner"
+[webp-banner]: http://webdevelopmentmadeeasy.com/wp-content/uploads/2017/09/HTML5_CSS_JavaScript.png "Web programming banner"
