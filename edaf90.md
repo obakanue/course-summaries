@@ -1,3 +1,5 @@
+![Web programming banner][webp-banner]
+
 # Webbprogramming EDAF90 2019 VT
 This is a file that is a work in progress, the goal is to get all the essential course material in one place in a short easy summarized text.
 
@@ -81,3 +83,6 @@ delete stringObject.newString; // This deletes the property newString from the o
 ```
 
 ### 1.B Operators
+<
+
+[webp-banner]: https://integraconsultores.es/wp-content/uploads/2018/07/kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa148694.1772279515230271940841.jpg "Web programming banner"
