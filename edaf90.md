@@ -1,3 +1,6 @@
+# Webbprogramming EDAF90 2019 VT
+This is a file that is a work in progress, the goal is to get all the essential course material in one place in a short easy summarized text.
+
 ## 1. The basics
 This is the introductory part of the course and covers the first two lectures. If you feel you understand the basics you can skip this part.
 
@@ -64,9 +67,17 @@ isNaN(1 + undefined) // true
 ```
 
 **- Object**
-
+It is easy to create new objects in JS, and you can easily access the object properties using dot or bracket notation similar to Java.
 
 **- Symbol**
 It is one of JavaScript's primitive values.
+
+**- Variables and the dynamic nature of JS**
+Variables have dynamic types, arrays can have different types for different elements. As mentioned and seen, object properties can added and deleted.
+```
+let stringObject = new String("This is a string in a String Object");
+stringObject.newString = "This is a new string property in stringObject";
+delete stringObject.newString; // This deletes the property newString from the object
+```
 
 ### 1.B Operators
