@@ -5,8 +5,10 @@ This repository hold summaries of courses taken at LTH. It is mostly for myself 
 
 #### Contains summary of the following courses so far:
 * [EDAF90][edaf90] Webbprogramming (WIP)
+* [MAMN01][mamn01] Avancerad Interaktionsdesign (WIP)
 
 [edaf90]: http://cs.lth.se/edaf90/
+[mamn01]: http://www.eat.lth.se/kurser/interaktionsdesign/avancerad-interaktionsdesign-mamn01/
 
 [lth-logo]: http://www.eat.lth.se/fileadmin/certec/Lund_university_L_RGB.png "LTH Logo"
 
