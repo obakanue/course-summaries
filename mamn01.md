@@ -14,8 +14,43 @@ Here are some helpful links for the course:
 * [Moodle](http://moodle.lth.se) Here you will find all course material for your course.
 * [Course Page](http://www.eat.lth.se/kurser/interaktionsdesign/avancerad-interaktionsdesign-mamn01/) This is the course page.
 * [Android Studio](https://developer.android.com/studio) Here you can download Android Studio if you don't already have it.
+* [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) This is the programming language you all will be using.
+* [GitHub](https://github.com) This is really important for version handling, you don't have to use GitHub but it is recommended since it is so easy tracking versions of your project and for working together in a team.
 
-## Repetition of terminology
+### Literature
+Here is a list of some authors with helpful literature:
+* Norman
+* Preece, Rogers, Sharp
+* Arvola
+
+### Programming tools
+This is the programming tools you will need for the project:
+* Java Development Kit
+* Android Studio
+* GitHub
+
+### Project Assignment
+You are to create an app for the android using java with non-traditional interaction. You will be in a team of four where the other team-members will be chosen for you by course admin. If you miss an obligatory event contact course admin to get an assignment since deadline will be one week from missed occassion. In parallell to the app you will also write a report that describes the design process and your decisions.
+
+You will need the following equipment which you may also have access to in school or borrow from course admin:
+* A computer
+* Android phone
+
+The laid out guide-lines are:
+* Tuition once a week with your mentor.
+* Brainstorming event with the group.
+* Presentation of conceptual idea.
+* Presentation of work in progress.
+* Showcase fair with everyones products.
+
+For every occassion your group will have to bring an android phone where you can test your app. You will also have to show your progress while discussing progress, problems, fears and future plans.
+
+As a start you will have a workshop for setting up the enviroment in Android Studio and testing the individual assignment "Hello Sensor". This assignment is only pass or fail.
+
+### Report
+You are as mentioned to write an report where you describe your design process. You will find the template on [Moodle](http://moodle.lth.se).
+
+## Repetition of Terminology
 This part is meant to jugg a bit of your memory from past terminology from previous courses.
 
 ### Prototypes
