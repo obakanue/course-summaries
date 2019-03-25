@@ -47,8 +47,30 @@ For every occassion your group will have to bring an android phone where you can
 
 As a start you will have a workshop for setting up the enviroment in Android Studio and testing the individual assignment "Hello Sensor". This assignment is only pass or fail.
 
+All code should be put on GitHub, where your mentor is to be invited as well. All borrowed code has to be referenced, and it is desirable in this project since you will be able to focus more on the design rather than function.
+
+The presentation of the work in progress is supposed to be like an elevator pitch. It is desirable to use powerpoint as an aid during the presentation. You should also send the slides one day before the presentation.
+
 ### Report
 You are as mentioned to write an report where you describe your design process. You will find the template on [Moodle](http://moodle.lth.se).
+
+The report consists of:
+* Theory
+* Method
+* Explanation of motivation of design decisions
+* Explanation of the prototype
+
+Keep the report updated everytime you work on the project.
+
+You will leave feedback on eachothers reports.
+
+### Individual reflection
+You will also write an A4 paper of your individual experience from the project, it should be around 450-750 words.
+
+These are the content titles:
+* My greatest contribution to the project.
+* My project members greatest contribution to the project.
+* What I've learned from the project. (Most important part)
 
 ## Repetition of Terminology
 This part is meant to jugg a bit of your memory from past terminology from previous courses.
@@ -73,3 +95,17 @@ There are generally two types of prototypes:
 <p align="center">
   <img src ="http://grouplab.cpsc.ucalgary.ca/saul/681/1998/prototyping/proto.jpg" />
 </p>
+
+### User centered design process
+A common problem with developing a product is a two-way road.
+* The designer just understands a small part of the users problem.
+* The user overestimates the designer’s understanding of the problem.
+
+By integrating the user in all the parts of the design process you will be much more likely to develop a successfull product.
+
+Here are some great buzz-words to use for the report: *Understanding*, *users*, *tasks*, *enviroments*, *evaluation*, *iterative*, *whole user ecperience*, *multidiciplinary*.
+
+<p align="center">
+  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3DfIl1vdz6r2y5BewF6SVA2wUtXDAGXP2xtCmxt8Qkg3zOVi3" />
+</p>
+
