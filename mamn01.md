@@ -103,9 +103,9 @@ A common problem with developing a product is a two-way road.
 
 By integrating the user in all the parts of the design process you will be much more likely to develop a successfull product.
 
-Here are some great buzz-words to use for the report: *Understanding*, *users*, *tasks*, *enviroments*, *evaluation*, *iterative*, *whole user ecperience*, *multidiciplinary*.
+Here are some great buzz-words to use for the report: *Understanding*, *users*, *tasks*, *enviroments*, *evaluation*, *iterative(rework many times)*, *user ecperience (Look, feel and usability)*, *multidiciplinary (a diverse team in thinking and knowledge*.
 
 <p align="center">
-  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3DfIl1vdz6r2y5BewF6SVA2wUtXDAGXP2xtCmxt8Qkg3zOVi3" />
+  <img src ="https://www.learningsolutionsmag.com/sites/default/files/inline-images/dt-diagram.png" />
 </p>
 
