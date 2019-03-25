@@ -20,7 +20,7 @@ There are generally two types of prototypes:
 **T-prototype** is an example of a *vertical* and *horisontal* prototype where you showcase what intended features are, but really only go into depth of a few. The more functions with high detail the more "legs" the T-prototype has. 
 
 <p align="center">
-  ![T-prototype][t-prototype]
+  <img src ="http://grouplab.cpsc.ucalgary.ca/saul/681/1998/prototyping/proto.jpg " />
 </p>
 
 
