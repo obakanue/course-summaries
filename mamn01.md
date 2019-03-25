@@ -1,5 +1,19 @@
 # Advanced Interaction Design MAMN01 2019 VT
-In this summary I will try to collect the basics and important terminology surrounding the course. Hopefully it will help when writing the report.
+In this summary I will try to collect the basics and important terminology surrounding the course. Hopefully it will help when writing the report. The end goal would be for this summary to be the only necessary source in order to complete the course.
+
+## Introduction
+Here are some links for where you will find specific course materials and software. I will also go showcase some of the assignments to be completed during the run of this course.
+
+This is the current Course Admin:
+Name:   Kirsten "Kirre" Rassmus-Gröhn
+E-mail: kirre@certec.lth.se
+Phone:  046 - 222 03 50
+
+### Links
+Here are some helpful links for the course:
+* [Moodle](http://moodle.lth.se) Here you will find all course material for your course.
+* [Course Page](http://www.eat.lth.se/kurser/interaktionsdesign/avancerad-interaktionsdesign-mamn01/) This is the course page.
+* [Android Studio](https://developer.android.com/studio) Here you can download Android Studio if you don't already have it.
 
 ## Repetition of terminology
 This part is meant to jugg a bit of your memory from past terminology from previous courses.
