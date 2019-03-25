@@ -17,13 +17,10 @@ There are generally two types of prototypes:
 * **Horisontal prototype** - Lots of functions but low on details.
 * **Vertical prototype** - Few functions but high on details.
 
+**LoFi-prototype** is an example of a primarily *horistonal* prototype, while **HiFi-prototype** is a lot closer to the finished product and is usually a lot more of a *vertical* prototype high on detail.
+
 **T-prototype** is an example of a *vertical* and *horisontal* prototype where you showcase what intended features are, but really only go into depth of a few. The more functions with high detail the more "legs" the T-prototype has. 
 
 <p align="center">
   <img src ="http://grouplab.cpsc.ucalgary.ca/saul/681/1998/prototyping/proto.jpg" />
 </p>
-
-
-
-
-[t-prototype]: http://grouplab.cpsc.ucalgary.ca/saul/681/1998/prototyping/proto.jpg "Map of T-prototype"
