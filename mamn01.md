@@ -17,9 +17,9 @@ There are generally two types of prototypes:
 * **Horisontal prototype** - Lots of functions but low on details.
 * **Vertical prototype** - Few functions but high on details.
 
-**T-prototype** is an example of a *vertical* and *horisontal* prototype where you showcase what intended features are, but really only go into depth of a few. The more functions with high detail the more "legs" the T-prototype has.
+**T-prototype** is an example of a *vertical* and *horisontal* prototype where you showcase what intended features are, but really only go into depth of a few. The more functions with high detail the more "legs" the T-prototype has. ![T-prototype][t-prototype]
 
-![T-prototype][t-prototype]
+
 
 
 [t-prototype]: http://grouplab.cpsc.ucalgary.ca/saul/681/1998/prototyping/proto.jpg "Map of T-prototype"
