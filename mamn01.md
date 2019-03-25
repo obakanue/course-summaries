@@ -5,11 +5,8 @@ In this summary I will try to collect the basics and important terminology surro
 Here are some links for where you will find specific course materials and software. I will also go showcase some of the assignments to be completed during the run of this course.
 
 This is the current Course Admin:
-
 Name:   Kirsten "Kirre" Rassmus-Gröhn
-
 E-mail: kirre@certec.lth.se
-
 Phone:  046 - 222 03 50
 
 ### Links
