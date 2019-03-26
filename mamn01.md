@@ -138,3 +138,8 @@ This is a quick explanation on how to connect an existing project in Android Stu
 2. Fill in the necessary information and press "*Share*".
 3. A menu will pop-up allowing you to decide what files you want to commit and add to your new respository. You can also write your commit message in the bottom of the window. Press "*OK*" when done.
 4. Now you can easily just press the buttons near the top of the window in order to commit and pull changes from your repository. You can just as easily use the terminal (which I prefer and recommend that you learn how to use).
+
+### Your "Hello Sensor" App
+Now you will begin creating your app, I will try to guide you through the process.
+1. Create a new project by clicking on "*File*" -> "*New*" -> "*New Project*". Choose an "*Empty Activity*" and press "*Next*".
+2. For name you can choose whatever, a suitible name can be "Hello Sensor". Make sure the language chosen is Java since this is one of the criteria for the project.
