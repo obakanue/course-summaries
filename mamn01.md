@@ -116,10 +116,10 @@ You will find the instructions for the first assignment on [Moodle](http://moodl
 Here is what you do to get started:
 1. Go to [this](https://developer.android.com/studio/index.html) webpage and download and install [Android Studio](https://developer.android.com/studio/index.html).
 2. Open Android Studio. If this is the first time you open the application you will have to configure some settings first. I will guide you through the process: 
-    1. They will ask if you want to share your data in order to "improve" their program. I personally never send any data anywhere if I can chose not to, but do feel free to send user data if you don't mind. 
-    2. Next you will have to decide how you want to initialize Android Studio. You can chose between *Standard* and *Custom*, the only difference is that Custom will allow you to decide how much RAM to allocate when running emulator instances. Standard is recommended if you don't have any preferences.
-    3. Next they will ask you to pick a theme, I went with Darcula (black theme FTW). 
-    4. Now you will be able to pick SDK components, tick in the "Android Virutal Device" if you want an emulator in order to test your app directly on the computer in Android Studio. You will also be able to pick installation folder for the SDK components further down. 
-    5. If you chose custom and have a system that can run the emulator in accelerated performance mode you will be able to chose how much RAM you want to allocate for the emulator instances. Just go with the recommended if you don't know that you are doing.
+   1. They will ask if you want to share your data in order to "improve" their program. I personally never send any data anywhere if I can chose not to, but do feel free to send user data if you don't mind. 
+   2. Next you will have to decide how you want to initialize Android Studio. You can chose between *Standard* and *Custom*, the only difference is that Custom will allow you to decide how much RAM to allocate when running emulator instances. Standard is recommended if you don't have any preferences.
+   3. Next they will ask you to pick a theme, I went with Darcula (black theme FTW). 
+   4. Now you will be able to pick SDK components, tick in the "Android Virutal Device" if you want an emulator in order to test your app directly on the computer in Android Studio. You will also be able to pick installation folder for the SDK components further down. 
+   5. If you chose custom and have a system that can run the emulator in accelerated performance mode you will be able to chose how much RAM you want to allocate for the emulator instances. Just go with the recommended if you don't know that you are doing.
 
 2. Go to [GitHub](https://github.com) webpage and log in to your account.
