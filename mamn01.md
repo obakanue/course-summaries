@@ -116,7 +116,7 @@ You will find the instructions for the first assignment on [Moodle](http://moodl
 This section will help you getting started with the assignment.
 
 If you don't want to follow my instructions below on how to initialize Android Studio and your first project you can just watch this video instead. It will start on 1.35 since this is where the real walkthrough starts.
-[![Tutorial for Initializing Android Studio](https://youtu.be/_d4fFFAJKVA?t=95/0.jpg)](https://youtu.be/_d4fFFAJKVA?t=95)
+[![Tutorial for Initializing Android Studio](http://i3.ytimg.com/vi/_d4fFFAJKVA/maxresdefault.jpg)](https://youtu.be/_d4fFFAJKVA?t=95)
 
 #### Initializing Android Studio
 This this section will help you set up Android Studio for the assignment. You can skip this part if you already have Android Studio and connected it with your Git-account.
