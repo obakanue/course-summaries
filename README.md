@@ -14,5 +14,5 @@ This repository hold summaries of courses taken at LTH. It is mostly for myself 
 [mamn01]: http://www.eat.lth.se/kurser/interaktionsdesign/avancerad-interaktionsdesign-mamn01/
 [eitf95]: https://www.eit.lth.se/kurs/eitf95
 
-[lth-logo]: http://www.eat.lth.se/fileadmin/certec/Lund_university_L_RGB.png "LTH Logo"
+[lth-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/U%2B2115.svg/170px-U%2B2115.svg.png "LTH Logo"
 
