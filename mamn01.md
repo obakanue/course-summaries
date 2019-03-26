@@ -23,7 +23,7 @@ Here is a list of some authors with helpful literature:
 * Preece, Rogers, Sharp
 * Arvola
 
-### Programming tools
+### Programming Tools
 This is the programming tools you will need for the project:
 * Java Development Kit
 * Android Studio
@@ -64,7 +64,7 @@ Keep the report updated everytime you work on the project.
 
 You will leave feedback on eachothers reports.
 
-### Individual reflection
+### Individual Reflection
 You will also write an A4 paper of your individual experience from the project, it should be around 450-750 words.
 
 These are the content titles:
@@ -96,7 +96,7 @@ There are generally two types of prototypes:
   <img src ="http://grouplab.cpsc.ucalgary.ca/saul/681/1998/prototyping/proto.jpg" />
 </p>
 
-### User centered design process
+### User Centered Design Process
 A common problem with developing a product is a two-way road.
 * The designer just understands a small part of the users problem.
 * The user overestimates the designer’s understanding of the problem.
@@ -109,18 +109,31 @@ Here are some great buzz-words to use for the report: *Understanding*, *users*, 
   <img src ="https://www.learningsolutionsmag.com/sites/default/files/inline-images/dt-diagram.png" />
 </p>
 
-## First individual assignment, "Hello Sensor"
+## First Individual Assignment, "Hello Sensor"
 You will find the instructions for the first assignment on [Moodle](http://moodle.lth.se), but I will go through everything here as well. There will be a workshop for you if you feel you get stuck and need help.
 
-### Getting started
-Here is what you do to get started:
+### Getting Started
+This section will help you getting started with the assignment.
+
+If you don't want to follow my instructions below on how to initialize Android Studio and your first project you can just watch this video instead. It will start on 1.35 since this is where the real walkthrough starts.
+[![Tutorial for Initializing Android Studio](https://youtu.be/_d4fFFAJKVA?t=95/0.jpg)](https://youtu.be/_d4fFFAJKVA?t=95)
+
+#### Initializing Android Studio
+This this section will help you set up Android Studio for the assignment. You can skip this part if you already have Android Studio and connected it with your Git-account.
 1. Go to [this](https://developer.android.com/studio/index.html) webpage and download and install [Android Studio](https://developer.android.com/studio/index.html).
 2. Open Android Studio. If this is the first time you open the application you will have to configure some settings first. I will guide you through the process: 
-  1. They will ask if you want to share your data in order to "improve" their program. I personally never send any data anywhere if I can chose not to, but do feel free to send user data if you don't mind. 
+   1. They will ask if you want to share your data in order to "improve" their program. I personally never send any data anywhere if I can chose not to, but do feel free to send user data if you don't mind. 
    2. Next you will have to decide how you want to initialize Android Studio. You can chose between *Standard* and *Custom*, the only difference is that Custom will allow you to decide how much RAM to allocate when running emulator instances. Standard is recommended if you don't have any preferences.
    3. Next they will ask you to pick a theme, I went with Darcula (black theme FTW). 
    4. Now you will be able to pick SDK components, tick in the "Android Virutal Device" if you want an emulator in order to test your app directly on the computer in Android Studio. You will also be able to pick installation folder for the SDK components further down. 
    5. If you chose custom and have a system that can run the emulator in accelerated performance mode you will be able to chose how much RAM you want to allocate for the emulator instances. Just go with the recommended if you don't know that you are doing.
+3. Go to "*File*" in the top left corner and chose on Mac: "*Other Settings*" -> "*Preferences for New Projects*". And on other systems: "*Settings...*"
+4. Go to "*Version Control*" -> "*Git*". Here you should check that the path to your installed Git directory is shown in the box for "*Path to Git executable*". This is usually "Auto-detected". If you press the "*Test*"-button you will see if your Git is configured correctly in Android Studio.
+5. In the same window, go to the section "*GitHub*". Press "*Add account*". Let the Server/Host stay as "github.com". Write in your account information for GitHub then press "*Login*" and "*Apply*". You should see your account displayed in the window.
 
-
-2. Go to [GitHub](https://github.com) webpage and log in to your account.
+#### Connect an Android Studio Project to GitHub
+This is a quick explanation on how to connect an existing project in Android Studio to a repository on your GitHub. You can skip this part if you already know how to or if you just want to start on the assignment "Hello Sensor" instead.
+1. In the top menu, pick "*VCS*" -> "*Import into Version Control*" -> "*Share Project on GitHub*".
+2. Fill in the necessary information and press "*Share*".
+3. A menu will pop-up allowing you to decide what files you want to commit and add to your new respository. You can also write your commit message in the bottom of the window. Press "*OK*" when done.
+4. Now you can easily just press the buttons near the top of the window in order to commit and pull changes from your repository. You can just as easily use the terminal (which I prefer and recommend that you learn how to use).
